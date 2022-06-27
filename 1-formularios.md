@@ -3,7 +3,9 @@ O objetivo deste desafio é criar um formulário com HTML e CSS apenas, contendo
 
 ## Desafio
 Construa um formulário utilizando apenas HTML e CSS, garantindo que as regras de validação de cada campo seja seguida corretamente, sem uso de Javascript.
-Cada campo obrigatório deve ser sinalizado de alguma maneira, podendo ser um * (asterisco) ou outra indicação.
+
+Cada campo obrigatório deve ser sinalizado de alguma maneira, podendo ser um * (asterisco) ou outra indicação. Idealmente é que esse marcador seja feita via CSS.
+
 O formulário precisa ter também dois botões: Limpar, Salvar, cada um seguindo funções padrões, sem necessidade de implementar Javascript.
 
 ## Contexto
