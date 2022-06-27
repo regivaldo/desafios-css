@@ -11,7 +11,9 @@ O formulário a ser criado é um Formulário de Abertura de chamado de uma plata
 
 
 ### Os campos
-|| Campo | Obrigatório | Validações ||
+
+| Campo | Obrigatório | Validações |
+| :---- | :---------- | :--------- |
 | Nome | Sim | Minimo 3 caracteres |
 | E-mail | Sim | Valida se é e-mail válido |
 | Início do problema | Sim | Data mínima 01/01/2022; data máxima 31/06/2022 |
