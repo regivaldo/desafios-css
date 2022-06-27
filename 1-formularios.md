@@ -26,8 +26,8 @@ O formulário a ser criado é um Formulário de Abertura de chamado de uma plata
 ### Os botões
 O formulário deve possuir dois botões:
 
-# Salvar: deve validar os campos e, caso todas as regras sejam aceitas, submeter o formulário
-# Cancelar: deve limpar todos os campos preenchidos
+* Salvar: deve validar os campos e, caso todas as regras sejam aceitas, submeter o formulário
+* Cancelar: deve limpar todos os campos preenchidos
 
 ## Como enviar o projeto
 Você pode desenvolver localmente ou criar no https://codepen.io/ seu código e enviar vi chat.
