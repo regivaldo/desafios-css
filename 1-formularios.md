@@ -8,6 +8,8 @@ Cada campo obrigatório deve ser sinalizado de alguma maneira, podendo ser um * 
 
 O formulário precisa ter também dois botões: Limpar, Salvar, cada um seguindo funções padrões, sem necessidade de implementar Javascript.
 
+Centralize o formulário na tela horizontalmente.
+
 ## Contexto
 O formulário a ser criado é um Formulário de Abertura de chamado de uma plataforma, e por isso, deve conter alguns campos que facilite o atendimento do agente.
 
